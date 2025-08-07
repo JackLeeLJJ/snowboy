@@ -1,0 +1,4 @@
+CMake Warning at CMakeLists.txt:27 (message):
+  Using mock Snowboy implementation (real library temporarily disabled)
+
+

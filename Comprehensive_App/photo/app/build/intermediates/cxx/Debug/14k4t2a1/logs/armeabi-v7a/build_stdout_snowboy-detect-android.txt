@@ -1,0 +1,10 @@
+ninja: Entering directory `E:\DeskTop\Comprehensive_App\photo\app\.cxx\Debug\14k4t2a1\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/snowboy-detect-android.dir/snowboy-wrapper.cpp.o
+E:/DeskTop/Comprehensive_App/photo/app/src/main/cpp/snowboy-wrapper.cpp:137:105: warning: unused parameter 'detector_ptr' [-Wunused-parameter]
+Java_ai_kitt_snowboy_snowboyJNI_SnowboyDetect_1RunDetection_1_1SWIG_15(JNIEnv *env, jclass clazz, jlong detector_ptr, jobject detector_obj, jshortArray data, jint array_length) {
+                                                                                                        ^
+E:/DeskTop/Comprehensive_App/photo/app/src/main/cpp/snowboy-wrapper.cpp:169:118: warning: unused parameter 'sensitivity' [-Wunused-parameter]
+Java_ai_kitt_snowboy_snowboyJNI_SnowboyDetect_1SetSensitivity(JNIEnv *env, jclass clazz, jlong detector_ptr, jstring sensitivity) {
+                                                                                                                     ^
+2 warnings generated.
+[2/2] Linking CXX shared library E:\DeskTop\Comprehensive_App\photo\app\build\intermediates\cxx\Debug\14k4t2a1\obj\armeabi-v7a\libsnowboy-detect-android.so

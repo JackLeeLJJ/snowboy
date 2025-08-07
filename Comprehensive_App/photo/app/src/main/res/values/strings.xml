@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">前置摄像头</string>
+    <string name="take_photo">拍照</string>
+    <string name="auto_capture">自动拍照</string>
+    <string name="stop_auto_capture">停止自动拍照</string>
+    <string name="auto_capture_started">自动拍照已开始</string>
+    <string name="auto_capture_stopped">自动拍照已停止，共拍摄 %d 张</string>
+    <string name="auto_capture_count">已拍摄 %d 张照片</string>
+    <string name="camera_permission_required">需要相机权限才能使用此功能</string>
+    <string name="storage_permission_required">需要存储权限才能保存照片</string>
+    <string name="photo_saved">照片已保存</string>
+    <string name="failed_to_save_photo">保存照片失败</string>
+    <string name="voice_listening_start">开始语音监听</string>
+    <string name="voice_listening_stop">停止语音监听</string>
+    <string name="voice_command_detected">检测到语音命令</string>
+    <string name="voice_listening_active">正在监听语音命令...</string>
+</resources> 

@@ -1,0 +1,1 @@
+E:\DeskTop\Comprehensive_App\photo\app\src\main\cpp\CMakeLists.txt

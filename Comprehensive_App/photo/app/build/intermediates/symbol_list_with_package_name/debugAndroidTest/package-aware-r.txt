@@ -1,0 +1,3 @@
+com.example.frontcamera.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

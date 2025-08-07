@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/DeskTop/Comprehensive_App/photo/app/.cxx/Debug/14k4t2a1/armeabi-v7a",
+  "command": "D:\\SDK_Android\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=D:/SDK_Android/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsnowboy_detect_android_EXPORTS -IE:/DeskTop/Comprehensive_App/photo/app/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -stdlib=libc++ -fno-limit-debug-info  -fPIC -O3 -fPIC -Wall -Wextra -stdlib=libc++ -std=gnu++11 -o CMakeFiles\\snowboy-detect-android.dir\\snowboy-wrapper.cpp.o -c E:\\DeskTop\\Comprehensive_App\\photo\\app\\src\\main\\cpp\\snowboy-wrapper.cpp",
+  "file": "E:\\DeskTop\\Comprehensive_App\\photo\\app\\src\\main\\cpp\\snowboy-wrapper.cpp"
+}
+]

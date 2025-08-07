@@ -1,0 +1,6 @@
+com.example.frontcamera.test.app-annotation-experimental-1.3.1-0 C:\Users\Levovo\.gradle\caches\transforms-3\33b1eb93ace4e2caed27cc4faa7ec52b\transformed\annotation-experimental-1.3.1\res
+com.example.frontcamera.test.app-core-1.5.0-1 C:\Users\Levovo\.gradle\caches\transforms-3\73594ca4929a910dc9a2bf038c3069b0\transformed\core-1.5.0\res
+com.example.frontcamera.test.app-androidTest-2 E:\DeskTop\Comprehensive_App\photo\app\build\generated\res\resValues\androidTest\debug
+com.example.frontcamera.test.app-mergeDebugAndroidTestResources-3 E:\DeskTop\Comprehensive_App\photo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.frontcamera.test.app-mergeDebugAndroidTestResources-4 E:\DeskTop\Comprehensive_App\photo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.frontcamera.test.app-merged_res-5 E:\DeskTop\Comprehensive_App\photo\app\build\intermediates\merged_res\debugAndroidTest

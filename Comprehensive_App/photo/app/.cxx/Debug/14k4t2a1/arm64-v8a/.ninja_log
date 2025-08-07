@@ -1,0 +1,6 @@
+# ninja log v5
+1267	5855	7757422436449134	E:/DeskTop/Comprehensive_App/photo/app/build/intermediates/cxx/Debug/14k4t2a1/obj/arm64-v8a/libsnowboy-detect-android.so	16ccda81349d1d0d
+5	1267	7757422427037708	CMakeFiles/snowboy-detect-android.dir/snowboy-wrapper.cpp.o	8bf353e051cb979a
+2	1385	7757433906642674	E:/DeskTop/Comprehensive_App/photo/app/build/intermediates/cxx/Debug/14k4t2a1/obj/arm64-v8a/libsnowboy-detect-android.so	16ccda81349d1d0d
+3	3069	7757436376623811	CMakeFiles/snowboy-detect-android.dir/snowboy-wrapper.cpp.o	8bf353e051cb979a
+3069	4996	7757436406039688	E:/DeskTop/Comprehensive_App/photo/app/build/intermediates/cxx/Debug/14k4t2a1/obj/arm64-v8a/libsnowboy-detect-android.so	16ccda81349d1d0d
